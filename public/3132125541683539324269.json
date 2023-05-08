@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "99313780695",
+    "project_id": "aaaaa-e634d",
+    "storage_bucket": "aaaaa-e634d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99313780695:android:bd5d900af5a97dd7b56d92",
+        "android_client_info": {
+          "package_name": "com.carxstreetmobile.carxstreetwallpaper4d.carxstreetwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99313780695-ugrgb5pov1k4i4qvudg6cofpb0clb02k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZxHMLtQ3MxlJYNRhvIDOivyErX1cPTh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99313780695-ugrgb5pov1k4i4qvudg6cofpb0clb02k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99313780695:android:350c48b4ed1e3ae6b56d92",
+        "android_client_info": {
+          "package_name": "com.wallpaperfootballplayer2023.moneyloan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99313780695-ugrgb5pov1k4i4qvudg6cofpb0clb02k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZxHMLtQ3MxlJYNRhvIDOivyErX1cPTh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99313780695-ugrgb5pov1k4i4qvudg6cofpb0clb02k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
